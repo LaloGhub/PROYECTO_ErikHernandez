@@ -4,6 +4,6 @@
  <title>Práctica GitHub Desktop</title>
 </head>
 <body>
- <h1>Archivo agregado desde mi PC</h1>
+ <h1>Archivo agregado desde mi PC.</h1>
 </body>
 </html>

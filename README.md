@@ -11,7 +11,7 @@ desarrolladas con *HTML, CSS y JavaScript*.
  3. Documentar con Markdown.
  ## Ejemplo de código
  ```html
- <h1>Hola mundo desde GitHub</h1>
+ <h1>Hola mundo desde GitHub soy lalonja</h1>
  ```
  ## Imagen de ejemplo
  ![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
